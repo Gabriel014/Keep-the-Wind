@@ -7,15 +7,22 @@ public class Controller : MonoBehaviour {
 	public float _acceleration = 0.5f;
 	public float maxcima;
 	public float maxbaixo;
-	
+	Animator animator;
+
+	void Start (){
+		animator = GetComponent<Animator>();
+	}
 	// Update is called once per frame
 	void Update () {
 
 		//Verifica se o personagem esta subindo ou descendo
 		if (Input.GetMouseButton (0)) {
-			GetComponent<Rigidbody2D> ().velocity = -velocityBall * _acceleration;
+			GetComponent<Rigidbody2D> ().velocity = -velocityBall * _acceleration;			
+			animator.SetBool ("Caindo", false);
 		} else {
-			GetComponent<Rigidbody2D> ().velocity = velocityBall * _acceleration/2;
+			GetComponent<Rigidbody2D> ().velocity = velocityBall * _acceleration/2;	
+			
+			animator.SetBool ("Caindo", true);
 		}
 
 		//Reseta a aceleracao quando o personagem troca a direcao

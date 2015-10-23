@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: db25188cd74707645b2f9725e5e3497f
+timeCreated: 1445641147
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Estrelas_1
+    21300002: Estrelas_2
+    21300004: Estrelas_3
+    21300006: Estrelas_4
+    21300008: Estrelas_5
+    21300010: Botoes_sprites_menu_star_5
+    21300012: Estrelas_6
+    21300014: keep_the_wind_popup
+    21300016: Botao_volume
+    21300018: Botao_volume_pressionado
+    21300020: Botao_Informacao
+    21300022: Botao_informacao_pressionado
+    21300024: Corda_provisorio
+    21300026: Argola
+    21300028: Botao_facebook
+    21300030: Botao_Facebook_pressionado
+    21300032: Botao_Play
+    21300034: Botao_Play_pressionado
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Estrelas_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1659
+        width: 258
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Estrelas_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1662
+        width: 238
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Estrelas_3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1661
+        width: 185
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Estrelas_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1662
+        width: 101
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Estrelas_5
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1658
+        width: 186
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Botoes_sprites_menu_star_5
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1660
+        width: 253
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Estrelas_6
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1663
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keep_the_wind_popup
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 982
+        width: 1207
+        height: 623
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Botao_volume
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 1278
+        width: 291
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Botao_volume_pressionado
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1325
+        width: 196
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Botao_Informacao
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 884
+        width: 291
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Botao_informacao_pressionado
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 927
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Corda_provisorio
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 362
+        width: 16
+        height: 295
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Argola
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 71
+        width: 265
+        height: 722
+      alignment: 9
+      pivot: {x: .500000477, y: .957768857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Botao_facebook
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 520
+        width: 291
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Botao_Facebook_pressionado
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 566
+        width: 198
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Botao_Play
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 0
+        width: 442
+        height: 442
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Botao_Play_pressionado
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 58
+        width: 322
+        height: 325
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
