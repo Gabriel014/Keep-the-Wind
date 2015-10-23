@@ -48,7 +48,5 @@ public class Controller : MonoBehaviour {
 		}
 	}
 
-	void OnCollisionEnter2D (Collision2D other){
-		Application.LoadLevel (Application.loadedLevel);
-	}
+
 }
