@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{DD9B6D90-DB2D-1CFB-5998-79273656BD06}</ProjectGuid>
+	<ProjectGuid>{50607AF8-2112-A124-C8F7-06D753E39302}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,10 +46,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Controller.cs" />
-     <Compile Include="Assets\Scripts\Generate.cs" />
-     <Compile Include="Assets\Scripts\Obstacle.cs" />
-     <Compile Include="Assets\Scripts\Ring.cs" />
+     <Compile Include="Assets\Scripts\Gameplay\Controller.cs" />
+     <Compile Include="Assets\Scripts\Gameplay\Obstacle.cs" />
+     <Compile Include="Assets\Scripts\Gameplay\Ring.cs" />
+     <Compile Include="Assets\Scripts\Menus\BackKey.cs" />
+     <Compile Include="Assets\Scripts\Menus\EscapeKey.cs" />
+     <Compile Include="Assets\Scripts\Menus\Sound.cs" />
+     <Compile Include="Assets\Scripts\Menus\Transition.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
