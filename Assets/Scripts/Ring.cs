@@ -2,9 +2,9 @@
 using System.Collections;
 
 public class Ring : MonoBehaviour {
+
 	// Use this for initialization
 	void Start () {
-	
 	}
 	
 	// Update is called once per frame
@@ -15,8 +15,8 @@ public class Ring : MonoBehaviour {
 		if (other.gameObject.tag.Equals ("Barreira")) {
 			Application.LoadLevel (Application.loadedLevel);
 		}
-		if (other.gameObject.tag.Equals ("Ring")) {
-			// incrementa um score
+		if (other.gameObject.tag.Equals ("Star")) {
+			Destroy(other.gameObject);
 		}
 	}
 
