@@ -52,6 +52,7 @@
      <Compile Include="Assets\Scripts\Menus\BackKey.cs" />
      <Compile Include="Assets\Scripts\Menus\EscapeKey.cs" />
      <Compile Include="Assets\Scripts\Menus\Sound.cs" />
+     <Compile Include="Assets\Scripts\Menus\Splash.cs" />
      <Compile Include="Assets\Scripts\Menus\Transition.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

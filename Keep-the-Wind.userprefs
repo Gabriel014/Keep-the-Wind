@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menus\EscapeKey.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Gameplay\Ring.cs">
     <Files>
-      <File FileName="Assets\Scripts\Menus\EscapeKey.cs" Line="12" Column="2" />
+      <File FileName="Assets\Scripts\Gameplay\Ring.cs" Line="32" Column="28" />
+      <File FileName="Assets\Scripts\Menus\Transition.cs" Line="23" Column="23" />
+      <File FileName="Assets\Scripts\Menus\Splash.cs" Line="15" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -14,5 +14,13 @@ public class Transition : MonoBehaviour {
 
 	public void About(){
 		Application.LoadLevel("About");
+	}
+
+	public void Stage1(){
+		Application.LoadLevel("Stage 1");
+	}	
+
+	public void Select(){
+		Application.LoadLevel("SelectLevel");
 	}	
 }
