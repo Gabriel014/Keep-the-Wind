@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 5a92061b34711d349afd7185236cfa85
+timeCreated: 1446132206
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SelectLevel_0
+    21300002: SelectLevel_1
+    21300004: SelectLevel_2
+    21300006: SelectLevel_3
+    21300008: SelectLevel_4
+    21300010: SelectLevel_5
+    21300012: SelectLevel_6
+    21300014: SelectLevel_7
+    21300016: SelectLevel_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SelectLevel_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 410
+        width: 2479
+        height: 1549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SelectLevel_1
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 420
+        width: 389
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SelectLevel_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 389
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SelectLevel_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 11
+        width: 389
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SelectLevel_4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 9
+        width: 387
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SelectLevel_5
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 9
+        width: 387
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SelectLevel_6
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 9
+        width: 387
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SelectLevel_7
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 6
+        width: 388
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SelectLevel_8
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 16
+        width: 388
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
