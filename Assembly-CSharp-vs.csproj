@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Gameplay\Controller.cs" />
      <Compile Include="Assets\Scripts\Gameplay\Obstacle.cs" />
+     <Compile Include="Assets\Scripts\Gameplay\Pause.cs" />
      <Compile Include="Assets\Scripts\Gameplay\Ring.cs" />
      <Compile Include="Assets\Scripts\Menus\BackKey.cs" />
      <Compile Include="Assets\Scripts\Menus\EscapeKey.cs" />

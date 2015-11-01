@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class Transition : MonoBehaviour {
-	// Update is called once per frame
+	public bool pause = true;
 
 	public static void Menu(){ 
 		Application.LoadLevel ("Menu");
@@ -22,5 +22,17 @@ public class Transition : MonoBehaviour {
 
 	public void Select(){
 		Application.LoadLevel("SelectLevel");
-	}	
+	}
+
+	public void Pause(){
+		if (pause) {
+			Time.timeScale = 0;
+			Application.LoadLevel("Pause");
+			pause = false;
+		} else {
+			Stage1();
+			Time.timeScale = 1;
+			pause = true;
+		}
+	}
 }

@@ -1,10 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Gameplay\Ring.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menus\Transition.cs">
     <Files>
-      <File FileName="Assets\Scripts\Gameplay\Ring.cs" Line="32" Column="28" />
-      <File FileName="Assets\Scripts\Menus\Transition.cs" Line="23" Column="23" />
-      <File FileName="Assets\Scripts\Menus\Splash.cs" Line="15" Column="1" />
+      <File FileName="Assets\Scripts\Menus\Transition.cs" Line="34" Column="23" />
+      <File FileName="Assets\Scripts\Menus\Sound.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
