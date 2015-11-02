@@ -2,7 +2,15 @@
 using System.Collections;
 
 public class Transition : MonoBehaviour {
-	public bool pause = true;
+	
+
+
+	public void Start(){
+	}
+
+	public void Update(){
+
+	}
 
 	public static void Menu(){ 
 		Application.LoadLevel ("Menu");
@@ -24,15 +32,5 @@ public class Transition : MonoBehaviour {
 		Application.LoadLevel("SelectLevel");
 	}
 
-	public void Pause(){
-		if (pause) {
-			Time.timeScale = 0;
-			Application.LoadLevel("Pause");
-			pause = false;
-		} else {
-			Stage1();
-			Time.timeScale = 1;
-			pause = true;
-		}
-	}
+
 }
